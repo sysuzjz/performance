@@ -1,0 +1,20 @@
+.dom-show {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 500px;
+    background-color: #fff;
+    z-index: 100;
+}
+.dom-hidden {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 500px;
+    z-index: 1;
+    overflow: auto;
+}
+
+#btn-dom-submit.disabled {
+    pointer-events: none;
+}

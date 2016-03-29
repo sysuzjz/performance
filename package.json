@@ -1,0 +1,21 @@
+{
+    "name": "performance",
+    "author": "jinze.zheng",
+    "version": "1.0.0",
+    "devDependencies": {
+        "matchdep": "latest",
+        "grunt": "latest",
+        "grunt-contrib-jshint": "latest",
+        "grunt-contrib-cssmin": "latest",
+        "grunt-contrib-clean": "latest",
+        "grunt-contrib-copy": "latest",
+        "grunt-contrib-less": "latest",
+        "grunt-contrib-uglify": "latest",
+        "grunt-contrib-concat": "latest",
+        "grunt-contrib-watch": "latest",
+        "grunt-contrib-nodeunit": "latest",
+        "grunt-contrib-coffee": "latest",
+        "grunt-usemin": "latest",
+        "grunt-contrib-htmlmin": "latest"
+    }
+}
